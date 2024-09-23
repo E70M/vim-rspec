@@ -1,3 +1,7 @@
+> [!NOTE]
+> `vim-rspec` is in maintenance-mode. We’re not actively adding new features,
+but we’ll fix bugs and keep it up to date.
+
 # rspec.vim
 
 This is a lightweight RSpec runner for Vim and MacVim.
